@@ -1,0 +1,8 @@
+numpy
+scipy
+pin
+
+# Rerun
+rerun-sdk
+trimesh
+yourdfpy
